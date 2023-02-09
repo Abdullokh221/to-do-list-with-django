@@ -1,0 +1,9 @@
+{
+    "[django-html]": {
+        "editor.linkedEditing": false
+    },
+    "auto-rename-tag.activationOnLanguage": [
+    
+        "*"
+    ]
+}
